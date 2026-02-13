@@ -424,6 +424,10 @@ npm install
 
 # Start development server
 npm start
+```
+
+# Backend setup
+```bash
 
 # Clone backend repository
 git clone https://github.com/rajhemant076/campusshare-backend
@@ -439,3 +443,4 @@ npm run createAdmin
 
 # Start development server
 npm run dev
+
